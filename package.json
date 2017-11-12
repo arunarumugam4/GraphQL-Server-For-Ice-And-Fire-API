@@ -1,0 +1,23 @@
+{
+  "name": "try-graphiql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+     "start":"node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.17.1",
+    "express": "^4.16.2",
+    "express-graphql": "^0.6.11",
+    "graphql": "^0.11.7"
+    
+    
+  },
+  "devDependencies": {
+    "supervisor": "^0.12.0"
+  }
+}
